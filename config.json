@@ -1,0 +1,14 @@
+[
+    {
+        "url": "http://10.100.14.190:3000",
+        "webhookUrl" : "https://hooks.slack.com/services/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",
+        "waitingTimeDelay" : 30,
+        "waitingTimeExceptions" : 30,
+        "pausedTimeChecker" : 30,
+        "disabledStationsTime" : 30,
+        "delayedChannel" : "#delayed",
+        "exceptionsChannel" : "#exceptions",
+        "pausedChannel" : "#paused",
+        "stationChannel" : "#closedstations"
+    }
+]
